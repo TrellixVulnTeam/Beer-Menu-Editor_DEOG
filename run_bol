@@ -1,0 +1,4 @@
+#!/bin/bash
+#!/usr/bin/env bash
+source /Users/bestofluck/DO_NOT_TOUCH/BOL/venv_mac/bin/activate
+python3 /Users/bestofluck/DO_NOT_TOUCH/BOL/main.py
